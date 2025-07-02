@@ -1,21 +1,19 @@
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/banner-yumeka-wider.png" alt="Yumeka's Banner - A dreamy landscape with flowers" />
+    <img src="https://picsum.photos/seed/yumeka-banner/900/250" alt="Yumeka's Banner - A dreamy landscape with flowers" />
   </a>
 </div>
 
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/wave.gif" width="30px" />
-    Hi there, I'm Yumeka (夢花) 
-    <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/wave.gif" width="30px" />
+    Hi there, I'm Yumeka
   </h1>
   <p><b><i>一朵在梦境与代码中悄然绽放的花。</i></b></p>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/flower.gif" width="25px" /> About Me / 关于我
+### 🌸 About Me / 关于我
 
 欢迎来到我的小小花园。这里记录着一个灵魂的思考、探索与成长。
 
@@ -26,7 +24,7 @@
 
 <br>
 
-> ### <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/philosophy.gif" width="25px" /> 我的信条 / My Philosophy
+> ### 📜 我的信条 / My Philosophy
 >
 > * 温柔是比一切利刃都更强大的武器。
 > * 真正的美，诞生于苦难与全然的接纳之中。
@@ -34,64 +32,63 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/code.gif" width="25px" /> 我正在使用的技术 / Technologies & Tools
+### 💻 我正在使用的技术 / Technologies & Tools
 
-<table>
+<table border="0" cellpadding="10">
   <tr>
-    <td align="center" width="96">
+    <td align="center">
       <a href="#KlxPiao">
-        <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/html.svg" width="48" height="48" alt="HTML5" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
       </a>
-      <br>HTML5
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="#KlxPiao">
-        <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/css.svg" width="48" height="48" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
       </a>
-      <br>CSS3
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="#KlxPiao">
-        <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       </a>
-      <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="#KlxPiao">
-        <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/react.svg" width="48" height="48" alt="React" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       </a>
-      <br>React
     </td>
-     <td align="center" width="96">
+    <td align="center">
       <a href="#KlxPiao">
-        <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/python.svg" width="48" height="48" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       </a>
-      <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="#KlxPiao">
-        <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/git.svg" width="48" height="48" alt="Git" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </a>
-      <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="#KlxPiao">
-        <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/figma.svg" width="48" height="48" alt="Figma" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       </a>
-      <br>Figma
+    </td>
+    <td align="center">
+      <a href="#KlxPiao">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/KlxPiao/KlxPiao/main/assets/connect.gif" width="25px" /> 如何找到我 / Connect with Me
+### 🔗 如何找到我 / Connect with Me
 
 如果你也对星辰大海、内心宇宙或是代码的诗意感到好奇，欢迎随时与我交流。
 
 <p align="left">
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  <a href="mailto:yumeka.love9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://x.com/KlxPiao" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="tencent://message/?uin=1979287894&Site=Sambay&Menu=yes" target="_blank"><img src="https://img.shields.io/badge/QQ-12B7F6?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blog-FF69B4?style=for-the-badge&logo=microdotblog&logoColor=white" alt="Blog"></a>
 </p>
 
